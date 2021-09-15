@@ -47,3 +47,11 @@
 .divider1 {
     padding: 15px;
 }
+
+p {
+    color: gray;
+}
+
+#blackbackground {
+    background-color: black;
+}
