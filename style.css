@@ -5,7 +5,7 @@
   }
   
   .hero-image {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("photographer.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("Img/CityTwo.jpg");
     height: 60%;
     background-position: center;
     background-repeat: no-repeat;
@@ -37,3 +37,13 @@
     background-color: #555;
     color: white;
   }
+
+  footer {
+    height: 5px;
+    padding-top: 15px;
+    text-align: right;
+}
+
+.divider1 {
+    padding: 15px;
+}
