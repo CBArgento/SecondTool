@@ -159,3 +159,20 @@ p {
     
     }
 
+   #icon {
+        height: 95px;
+        width: 95px;
+        
+        }
+        
+        .Businfo {
+        text-align: center;
+        }
+
+.text-success {
+    text-align: center;
+}
+
+.text-sub {
+    text-align: center;
+}
